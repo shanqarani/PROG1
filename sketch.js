@@ -320,10 +320,3 @@ function dibujarPill2 (xPill2, yPill2, diamPill2){
   
   pop();
 }
-
-
-
-
-
-
-
